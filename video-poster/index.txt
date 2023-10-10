@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>ETIQUETA DE VIDEO</title>
+</head>
+
+<body bgcolor="pink">
+<text="purple">
+<br><h1 align="center">Artista</h1></br>
+<center><video poster="./imgs/poster.png" controls="controls" width="726" height="478">
+    <source src="./video/Simple Plan - Ordinary Life (Lyrics).mp4" type="video/mp4">  
+  </video></center>
+</text>    
+
+</body>
+</html>
