@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>TABLAS</title>
+</head>
+<body>
+   
+    <table>
+        <table border="5%"><
+        <tr>COSTOS</tr>
+        <td>
+            <td>
+            <td>
+            <td>  
+        <tr>PRODUCCION</tr>
+        <td>
+            <td>
+            <td>
+            <td>  
+      </table>  
+
+      <table>
+        <tr>DISEÑO Y FOTOGRAFÍA</tr>
+        <td>
+            <td>
+            <td>
+            <td>  
+      </table>  
+
+      <table>
+        <tr>DOCENCIA Y EDUCACIÓN</tr>
+        <td>
+            <td>
+            <td>
+            <td>    
+      </table>  
+
+      <table>
+        <table border="2%"><
+        <tr>
+        <td>TEXTOS</td>
+        <td>LIBROS</td>
+        <td>MATERIAS</td>
+        <td>
+            <td>
+                <td>
+                <td>
+        <tr>
+  <caption align="center">MATERIAS</caption>
+  <td>ESPAÑOL</td> 
+  <td>
+    <td>
+    <td>
+    <td>
+  <tr>
+    <td>9</td>
+    <tr>
+    <td>
+    <td>
+    <td>
+    <tr>
+ <td>MATEMATICAS</td>
+ <td>
+    <td>
+    <td>
+    <td>
+    <tr>
+    <td>7</td>
+    <td>
+    <td>
+    <td>
+    <td>
+    <tr>
+    <td>CIENCIAS</td>
+    <tr>
+    <td>
+    <td>
+    <td>
+    <td>
+    <tr>
+    <td>DISEÑO</td>
+    <td>
+    <tr> 
+    <td>
+    <td>
+    <td>
+    <td>    
+</table>
+
+
+<table>
+    <td>9</td>
+    <td>7</td>
+    <td>6</td>
+    <td>6</td>
+    <td>
+        <td>
+        <td>
+        <td>   
+</table>
+
+<table>
+<td>9</td>
+<td>
+    <td>
+    <td>
+    <td>
+    <tr>
+<td>9</td>
+<td>
+    <td>
+    <td>
+    <td>
+    <tr>
+<td>9</td>
+<td>
+    <td>
+    <td>
+    <td>
+    <tr>
+<td>9</td>
+<td>
+<td>
+<td>
+<td>
+</table>    
+
+
+
+</body>
+</html>
