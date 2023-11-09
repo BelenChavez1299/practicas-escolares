@@ -1,0 +1,25 @@
+body {
+	font-family: 'riffic';
+	text-align: center;
+}
+
+table {
+	font-family: 'riffic';
+	text-align: center;
+}
+
+h1 {
+	font-family: 'riffic';
+	font-kerning: '10px';
+}
+
+video {
+	align-items: center;
+	 border-radius: '8px';
+
+}
+
+hr {
+	color: fuchsia;
+}
+
