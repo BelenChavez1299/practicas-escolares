@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>BOTONES DE FORMULARIO</title>
+</head>
+
+<body bgcolor="orange">
+
+ <h1 align="left">CAMPO DE TEXTO</h1>
+ <br>campo de entrada de una linea de texto que el usuario puede agregar
+ <input type="text" name="nombre control">   
+
+ <h1 align="left">CAMPO DE CONTRASEÑA</h1> 
+ <br>tipo de boton donde va a aparecer una serie de puntos como ocultando nuestra contraseña
+ <br>
+ <input type="password" name="nombre control"/>
+ <br>
+ <br><h1 align="left">CAMPO DE ARCHIVO</h1>
+<br> nos permite especificar un archivo que se adjunta a nuestra página y admite archivos de tipo pdf, jpg, png, jfif,mp4,bmp.
+ <input type="file" name="archivo" value="ar"/>
+<br>
+<br><h1 align="left">LISTA DESPLEGABLE</h1>
+<br>permite elegir un valor de texto de una lista
+literalmente desplegable.
+<br>
+<select name="nombrelistadespegable">
+<option value="nombrevalor">Selecciona la respuesta correcta</option>
+<option value="nombrevalor">Juan</option>
+<option value="nombrevalor">Maria</option> 
+<option value="nombrevalor">Pedro</option> 
+<option value="nombrevalor">Monica</option>  
+</select>
+<br>
+CONTROL DE FECHA ¡------COMENTARIOS-----!
+Nos permite a los usuarios seleccionar una fecha especifica.
+<br>
+<input type="date" name="fecha">
+<br>BOTON DE OPCIÓN 
+<br>Los botones nos permiten a los usuarios seleccionar una
+sola opción.
+    <input type="radio" name="control" value="nombre valor"/>
+    <input type="radio" name="control" value="nombre valor"/>
+    <input type="radio" name="control" value="nombre valor"/>
+    <input type="radio" name="control" value="nombre valor"/>    
+<br>
+<br>CASILLA DE VERIFICACIÓN
+<br>Nos permite a los usuarios asignar mas de una opcion 
+al mismo tiempo.
+<br>
+<input type="checkbox" name="nombre control" value="nombrevalor"/>
+<br>
+<input type="checkbox" name="nombre control" value="nombrevalor"/>
+<br>
+<input type="checkbox" name="nombre control" value="nombrevalor"/>
+<br>
+<br>
+CONTROL DESLIZANTE
+Nos permite a los usuarios seleccionar algun valor
+aproximado del control deslizante.
+<br>
+<input type="range" id="nombre identificador" value="valorpordefecto"/>
+
+<br>BOTON DE ENVIAR
+<br> fundamentalmente para finalizar cualquier formulario y poder 
+enviar nuestras respuesta, siempre y cuando este vinculado a un servidor.
+<br>
+<input type="submit" value="ENVIAR"/>
+<br>
+<br>BOTON PARA CANCELAR, RESTABLECER O BORRAR
+<br>Este boton es para restablecer el formulario
+<br>
+<input type="reset" value="RESTABLECER"/>
+<br>
+<br>BOTON EN FORMA LISTA DE DATOS
+<br>Es para definir elementos y autocompletar
+<br>
+<input list="nombre de la lista" name="FRUTAS">
+<datalist id="nombre de la lista">
+<option value="NARANJA">
+<option value="MANDARINA">
+<option value="MANZANA">
+<option value="TORONJA">
+<option value="UVAS">                 
+</option>    
+</datalist>
+<br>
+<br>AUTENTICAR usuarios
+<br>Es una opcion de keygen y autentica usuarios que genera clave unicas
+<br>
+<br><form action="demoUTC.asp" method="get">
+ nombre de usuario:<input type="text" name="usuario">   
+ encriptacion:<keygen name="seguridad">
+ <input type="submit">
+ </keygen>
+</form>
+<br>
+<br>
+
+</body>
+</html>
